@@ -19,3 +19,5 @@
 - ML Model Training
 - DL Model Training
  
+## 💼 Contact
+Find me on [LinkedIn](https://www.linkedin.com/in/asmaamirkhan/) and feel free to mail me, [Asmaa 🦋](mailto:asmaamirkhan.am@gmail.com)
